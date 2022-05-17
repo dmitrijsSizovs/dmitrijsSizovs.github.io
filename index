@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>Dmitrijs Sizovs</title>
+        <meta name="About me" content="Some information about me.">
+        <link rel="stylesheet" href="main.css">
+    </head>
+    <body>
+     
+        <div class="center">
+            <button class="button button2">Education</button>
+            <button class="button button2">Portfolio</button>
+            <button class="button button2">E-commerce</button>
+        </div>
+        
+        <img alt="A picture of me" src="/screenshots/quick-edit.png" />
+        
+        <h1>Hey! I'm Dmitrijs Sizovs</h1>
+
+        <h2>
+            I enjoy designing tech websites and digital products
+        </h2>  
+        
+        <button class="button button1">Contact me</button>
+        
+    </body>
+</html>
