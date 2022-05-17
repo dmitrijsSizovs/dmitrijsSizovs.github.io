@@ -172,7 +172,16 @@ a.top:hover{
 }
 
 
+a.btm{
+    background-color: white;
+    color: #0e1014;
+    font-weight: 600;
+    margin-top: 3em;
+}
 
+a.btm:hover{
+    color:#b6b6b6;
+}
 
 
 
